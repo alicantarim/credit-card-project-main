@@ -25,7 +25,7 @@ Modern ve interaktif bir kredi kartı form uygulaması. Kullanıcılar kart bilg
 1. Repoyu klonlayın
 
 ```bash
-git clone https://github.com/alicantarim/credit-card-project.git
+git clone https://github.com/alicantarim/credit-card-project-main.git
 ```
 
 2. Proje dizinine gidin
@@ -71,7 +71,7 @@ credit-card-project/
 
 Alican Tarım - [GitHub](https://github.com/alicantarim)
 
-Proje Linki: [https://github.com/alicantarim/credit-card-project](https://github.com/alicantarim/credit-card-project)
+Proje Linki: [https://github.com/alicantarim/credit-card-project-main](https://github.com/alicantarim/credit-card-project-main)
 
 ## 🙏 Teşekkürler
 
